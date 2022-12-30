@@ -1,9 +1,13 @@
 import "./App.css";
+import Footer from "./Components/Footer";
+import Navigation from "./Components/Navigation";
 
 function App() {
     return (
         <div className="App">
-            <h1 class="text-3xl font-bold underline text-sky-500">Hello world!</h1>
+        <Navigation />
+        
+        {/* <Footer /> */}
         </div>
     );
 }

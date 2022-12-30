@@ -1,2 +1,4 @@
 react app install
 tailwindCss install
+React router dom install
+daisyui install
