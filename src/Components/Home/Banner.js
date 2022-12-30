@@ -3,7 +3,7 @@ import React from "react";
 const Banner = () => {
     return (
         <>
-            <div className="mb-10">
+            <div className="mb-10 z-10">
                 <h1
                     href="/"
                     className=" normal-case font-bold text-3xl text-white absolute z-10 right-2/4 bottom-2/4"
