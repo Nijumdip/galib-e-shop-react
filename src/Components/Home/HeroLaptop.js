@@ -3,10 +3,11 @@ import React from "react";
 const HeroLaptop = () => {
     return (
         <>
-            <div className="card flex sm:flex-row flex-col bg-base-100  mb-10">
-                <div className="text-start sm:w-1/2 h-96">
+            <div className=" flex sm:flex-row flex-col bg-base-100">
+                <div  style={{height:"600px"}} className="text-start sm:w-1/2 h-96">
                     <img
-                        className="w-full "
+                        
+                        className="w-full h-full"
                         src="https://placeimg.com/400/400/arch"
                         alt="Album"
                     />
@@ -33,20 +34,6 @@ const HeroLaptop = () => {
                         of e-commerce website development
                     </p>
                     <button className="btn btn-primary">Get Started</button>
-                </div>
-            </div>
-
-            <div className="card flex flex-row bg-base-100  mb-10">
-                <div>
-                    <h1 className="text-5xl font-bold">Box Office News!</h1>
-                    <p className="py-6">
-                        Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi
-                        exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.
-                    </p>
-                    <button className="btn btn-primary">Get Started</button>
-                </div>
-                <div>
-                    <img src="https://placeimg.com/400/400/arch" alt="Album" />
                 </div>
             </div>
         </>
