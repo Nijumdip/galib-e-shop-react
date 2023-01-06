@@ -8,7 +8,7 @@ const HeroLaptop = () => {
                     <img
                         
                         className="w-full h-full"
-                        src="https://placeimg.com/400/400/arch"
+                        src="https://s.yimg.com/uu/api/res/1.2/xkmJambISxQVOt13h2ksjA--~B/aD0xMjAwO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-09/87507b30-35fd-11ed-bdfa-2fc8eaaf9b67.cf.jpg"
                         alt="Album"
                     />
                 </div>
