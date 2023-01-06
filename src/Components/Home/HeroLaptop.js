@@ -12,7 +12,7 @@ const HeroLaptop = () => {
                         alt="Album"
                     />
                 </div>
-                <div className="text-start mt-10 sm:ml-10 px-5 sm:w-1/2">
+                <div className="text-start my-16 sm:ml-10 px-5 sm:w-1/2">
                     <h1 className="text-5xl font-bold">LAPTOP</h1>
                     <p className="py-2">
                         A fast-loading e-commerce website with quality content increases organic

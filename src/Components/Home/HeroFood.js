@@ -4,7 +4,7 @@ const HeroFood = () => {
     return (
         <>
             <div className=" flex flex-col-reverse sm:flex-row  bg-base-100 mb-10">
-                <div className="text-start mt-10 sm:ml-10 px-5 sm:w-1/2">
+                <div className="text-start mt-20 mb-10 sm:ml-10 px-5 sm:w-1/2">
                     <h1 className="text-5xl font-bold">FOOD</h1>
                     <p className="py-2">
                         A fast-loading e-commerce website with quality content increases organic
@@ -29,7 +29,10 @@ const HeroFood = () => {
                 </div>
 
                 <div style={{height:"600px"}} className="text-start sm:w-1/2 h-96">
-                    <img className="w-full h-full " src="https://placeimg.com/400/400/arch" alt="Album" />
+                    <img
+                        className="w-full h-full "
+                        src="https://www.daysoftheyear.com/wp-content/uploads/national-fast-food-day.jpg"
+                        alt="Album" />
                 </div>
             </div>
         </>
