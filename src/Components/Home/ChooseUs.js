@@ -11,7 +11,7 @@ const ChooseUs = () => {
                 </div>
                 <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3  pt-6 gap-8 mb-10 h-24 w-full sm:px-20 px-10">
                     {/* Remove class [ h-24 ] when adding a card block */}
-                    <div className="rounded shadow-xl border-l-8 border-sky-500 h-24" >dfgdfgdfgfd</div>
+                    <div className="rounded-tr-3xl shadow-xl border border-l-8 border-sky-500 h-24" >dfgdfgdfgfd</div>
 
                     <div className="rounded   border-gray-700  border-2 h-24" ></div>
 
